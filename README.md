@@ -18,7 +18,6 @@ Automate progress updates across GitHub and Twitter.
 - Axios
 - GitHub API
 - Twitter API
-- PostgreSQL
 
 ## Getting Started
 
