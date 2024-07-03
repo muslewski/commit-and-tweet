@@ -15,6 +15,7 @@ Automate progress updates across GitHub and Twitter.
 
 - Node.js
 - Express
+- EJS
 - Axios
 - GitHub API
 - Twitter API
