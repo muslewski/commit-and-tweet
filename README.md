@@ -2,6 +2,8 @@
 
 Automate progress updates across GitHub and Twitter.
 
+##
+
 ## Features
 
 - **GitHub Integration**: Automatically update your GitHub readme.md with learning progress.
@@ -23,13 +25,16 @@ Automate progress updates across GitHub and Twitter.
 ```
 git clone  <git lab template url> <project_name>
 ```
-- Install dependencies
+2. Install dependencies:
 ```
 cd <project_name>
 npm install
 ```
-- Build and run the project
+3. Set up environment variables for GitHub and Twitter API credentials.
+4. Build and run the project
 ```
 npm start
 ```
   Navigate to `http://localhost:3000`
+
+
