@@ -1,5 +1,4 @@
-# Commit & Tweet
-<img src="https://github.com/muslewski/commit-and-tweet/blob/main/public/images/logo-circle.png" width="100" height="100" />
+# Commit & Tweet <img src="https://github.com/muslewski/commit-and-tweet/blob/main/public/images/logo-circle.png" width="100" height="100" />
 
 Automate progress updates across GitHub and Twitter.
 
