@@ -1,5 +1,5 @@
 # Commit & Tweet
-![Logo](https://github.com/muslewski/commit-and-tweet/blob/main/public/images/logo.png | width=50)
+![Logo](https://github.com/muslewski/commit-and-tweet/blob/main/public/images/logo.png|width=50)
 
 Automate progress updates across GitHub and Twitter.
 
