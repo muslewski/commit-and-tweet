@@ -2,7 +2,8 @@
 
 Automate progress updates across GitHub and Twitter.
 
-##
+## Showcase
+![Commit & Tweet](https://github.com/muslewski/commit-and-tweet/blob/main/presentation.gif)
 
 ## Features
 
@@ -36,5 +37,15 @@ npm install
 npm start
 ```
   Navigate to `http://localhost:3000`
+
+## Usage
+
+- Make commits to your GitHub repositories.
+- Your readme.md will automatically update.
+- Milestones can be tweeted simultaneously.
+
+## Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request.
 
 
